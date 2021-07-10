@@ -35,7 +35,7 @@ const config = {
                 loader: 'babel-loader',
             },
             {
-                test: /\.(eot|svg|ttf|woff|woff2|png|jpg|gif)$/i,
+                test: /\.(eot|svg|ttf|woff|woff2|png|jpg|gif|webp)$/i,
                 type: 'asset',
             },
 
